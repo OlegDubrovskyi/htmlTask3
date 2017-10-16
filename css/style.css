@@ -1,0 +1,40 @@
+.header {
+	color: red;
+	font-size: 16px;
+	text-decoration: underline;
+	letter-spacing: 0.4px;
+}
+
+.myText {
+	font-size : 13.5px;
+	font-weight: bolder;
+	line-height: 1.1;
+	letter-spacing: 1.3px;
+	line-height: 1.1;
+}
+
+.test {
+	font-size: 13px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.foot {
+	color: green;
+	font-size: 10px;
+	text-align: justify;
+	line-height: 1.5;
+}
+
+.textQuestion {
+	font-style:italic;
+	letter-spacing: 1.5px;
+}
+
+.textSearch {
+	color:blue;
+}
+
+.textDec {
+	text-decoration:line-through;
+}
